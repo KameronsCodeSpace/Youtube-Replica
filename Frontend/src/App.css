@@ -54,3 +54,11 @@ form, #results {
    background: red;  
    border-color: #952b2b; 
 }
+
+.about-text p {
+  display: flex;
+  /* align-items: center; */
+  /* justify-content: center; */
+  padding: 10vh;
+  font-size: 3vh;;
+}
